@@ -1,4 +1,4 @@
-# Containerized Web Application using Fast.ai
+# Containerized Web Application using FastAPI
 
 __Key tools:__
 1. minikube: to establish an local kubernetes cluster
